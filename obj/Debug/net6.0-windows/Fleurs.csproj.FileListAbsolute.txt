@@ -1,0 +1,17 @@
+D:\ESILV\Semestre 2\DD et Interpolation\Projet Final\Fleurs\Fleurs\bin\Debug\net6.0-windows\Fleurs.exe
+D:\ESILV\Semestre 2\DD et Interpolation\Projet Final\Fleurs\Fleurs\bin\Debug\net6.0-windows\Fleurs.deps.json
+D:\ESILV\Semestre 2\DD et Interpolation\Projet Final\Fleurs\Fleurs\bin\Debug\net6.0-windows\Fleurs.runtimeconfig.json
+D:\ESILV\Semestre 2\DD et Interpolation\Projet Final\Fleurs\Fleurs\bin\Debug\net6.0-windows\Fleurs.dll
+D:\ESILV\Semestre 2\DD et Interpolation\Projet Final\Fleurs\Fleurs\bin\Debug\net6.0-windows\Fleurs.pdb
+D:\ESILV\Semestre 2\DD et Interpolation\Projet Final\Fleurs\Fleurs\obj\Debug\net6.0-windows\Fleurs.csproj.AssemblyReference.cache
+D:\ESILV\Semestre 2\DD et Interpolation\Projet Final\Fleurs\Fleurs\obj\Debug\net6.0-windows\Fleurs.Connexion.resources
+D:\ESILV\Semestre 2\DD et Interpolation\Projet Final\Fleurs\Fleurs\obj\Debug\net6.0-windows\Fleurs.csproj.GenerateResource.cache
+D:\ESILV\Semestre 2\DD et Interpolation\Projet Final\Fleurs\Fleurs\obj\Debug\net6.0-windows\Fleurs.GeneratedMSBuildEditorConfig.editorconfig
+D:\ESILV\Semestre 2\DD et Interpolation\Projet Final\Fleurs\Fleurs\obj\Debug\net6.0-windows\Fleurs.AssemblyInfoInputs.cache
+D:\ESILV\Semestre 2\DD et Interpolation\Projet Final\Fleurs\Fleurs\obj\Debug\net6.0-windows\Fleurs.AssemblyInfo.cs
+D:\ESILV\Semestre 2\DD et Interpolation\Projet Final\Fleurs\Fleurs\obj\Debug\net6.0-windows\Fleurs.csproj.CoreCompileInputs.cache
+D:\ESILV\Semestre 2\DD et Interpolation\Projet Final\Fleurs\Fleurs\obj\Debug\net6.0-windows\Fleurs.dll
+D:\ESILV\Semestre 2\DD et Interpolation\Projet Final\Fleurs\Fleurs\obj\Debug\net6.0-windows\refint\Fleurs.dll
+D:\ESILV\Semestre 2\DD et Interpolation\Projet Final\Fleurs\Fleurs\obj\Debug\net6.0-windows\Fleurs.pdb
+D:\ESILV\Semestre 2\DD et Interpolation\Projet Final\Fleurs\Fleurs\obj\Debug\net6.0-windows\Fleurs.genruntimeconfig.cache
+D:\ESILV\Semestre 2\DD et Interpolation\Projet Final\Fleurs\Fleurs\obj\Debug\net6.0-windows\ref\Fleurs.dll
